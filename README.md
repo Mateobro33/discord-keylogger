@@ -56,14 +56,11 @@ Ce projet est destiné **exclusivement** à la formation en cybersécurité. Tou
 
 ## 📸 Captures d’exécution
 
-1. **Nouveaux logs disponibles**
+
    ![Nouveaux Logs Disponibles](Capture d’écran 2025-12-11 170629.png)
 
-2. **Connexion établie (Keylogger actif)**
    ![Connexion Établie](https://github.com/Mateobro33/discord-keylogger/blob/9afc8252f84fd6ee886053e2d32fc0dae3bad97f/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170430.png)
 
-3. **Nouvelle session démarrée (Infos système)**
    ![Nouvelle Session Démarrée](Capture d’écran 2025-12-11 170542.png)
 
-4. **Keylogger désactivé**
    ![Keylogger Désactivé](Capture d’écran 2025-12-11 170659.png)
