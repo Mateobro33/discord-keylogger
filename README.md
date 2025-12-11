@@ -57,10 +57,10 @@ Ce projet est destiné **exclusivement** à la formation en cybersécurité. Tou
 ## 📸 Captures d’exécution
 
 
-   ![Nouveaux Logs Disponibles](https://github.com/Mateobro33/discord-keylogger/blob/b9cb58d63db688bc510de2eee0364a737c053bd5/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170542.png)
+   ![Nouvelle session démarrée](https://github.com/Mateobro33/discord-keylogger/blob/b9cb58d63db688bc510de2eee0364a737c053bd5/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170542.png)
 
    ![Connexion Établie](https://github.com/Mateobro33/discord-keylogger/blob/9afc8252f84fd6ee886053e2d32fc0dae3bad97f/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170430.png)
 
-   ![Nouvelle Session Démarrée](https://github.com/Mateobro33/discord-keylogger/blob/0efb1fcc9b54fe5590105f5864dd9c5eaea831f0/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170629.png)
+   ![Nouveaux Logs Disponibles](https://github.com/Mateobro33/discord-keylogger/blob/0efb1fcc9b54fe5590105f5864dd9c5eaea831f0/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170629.png)
 
-   ![Keylogger Désactivé](Capture d’écran 2025-12-11 170659.png)
+   ![Keylogger désactivé](https://github.com/Mateobro33/discord-keylogger/blob/09289232dccd446953855bb1ac4b2d527f8b6a99/Capture%20d%E2%80%99%C3%A9cran%202025-12-11%20170659.png)
