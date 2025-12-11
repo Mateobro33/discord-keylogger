@@ -2,7 +2,7 @@
 
 # Keylogger pédagogique (Windows) — README simple
 
-> Projet **académique** (École 42, cybersécurité). Ce programme **journalise les frappes clavier**, collecte des **infos système** et **envoie des logs** via des **webhooks Discord**.
+> Projet **académique**.
 
 ---
 
